@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 <img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=15783185&theme=dracula"
 />
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merthaddad)]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merthaddad)
 
 
 <!--
