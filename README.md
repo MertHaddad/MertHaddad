@@ -3,10 +3,15 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width="330x" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide=glsl,rust,go" />
-  <img src="https://wakatime.com/badge/user/22717cb1-1a2e-449e-b96d-c321b32d6ccf.svg" alt="Total time coded since Jun 1 2022" />
-     
 
+<br/>
+  <br>
 </a>
+<!-- 
+  <img width="570"  align="center" src="https://wakatime.com/share/@merthaddad/5799c1ff-40cd-4392-a556-7f923d78ea13.svg" alt="Total time coded since Jun 1 2022" />
+-->
+  <img width="150x" align="center" src="https://wakatime.com/badge/user/22717cb1-1a2e-449e-b96d-c321b32d6ccf.svg" alt="Total time coded since Jun 1 2022" />
+
 
 
 
