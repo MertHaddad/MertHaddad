@@ -1,10 +1,16 @@
-### Hi there 👋
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=merthaddad&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=dark&hide=glsl,rust,go" />
+</a>
 
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=dark&hide=glsl,rust,go)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merthaddad&theme=dark&show_icons=true&count_private=true&hide_rank=true)
+
 <img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=15783185&theme=dracula"
 />
