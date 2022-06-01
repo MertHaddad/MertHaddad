@@ -5,9 +5,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide=glsl,rust,go" />
   <img src="https://wakatime.com/badge/user/22717cb1-1a2e-449e-b96d-c321b32d6ccf.svg" alt="Total time coded since Jun 1 2022" />
 </a>
-<a href="https://wakatime.com/@22717cb1-1a2e-449e-b96d-c321b32d6ccf"><img src="https://wakatime.com/badge/user/22717cb1-1a2e-449e-b96d-c321b32d6ccf.svg" alt="Total time coded since Jun 1 2022" /></a>
-<!--
 
+<!--
+waka check it later
+
+https://github-readme-stats.vercel.app/api/wakatime?username=merthaddad&layout=compact&theme=dark
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=dark&hide=glsl,rust,go)
