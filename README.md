@@ -8,7 +8,7 @@
 <a href="https://wakatime.com/@22717cb1-1a2e-449e-b96d-c321b32d6ccf"><img src="https://wakatime.com/badge/user/22717cb1-1a2e-449e-b96d-c321b32d6ccf.svg" alt="Total time coded since Jun 1 2022" /></a>
 
 <a>
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?&username=merthaddad&layout=compact&&theme=default"></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?&username=merthaddad&layout=compact&&theme=dark"></a>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=dark&hide=glsl,rust,go)
