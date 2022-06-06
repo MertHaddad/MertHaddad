@@ -1,22 +1,21 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="152x"  align="top" src="https://github-readme-stats.vercel.app/api?username=merthaddad&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
-</a>
-<a href="https://wakatime.com/">
-  <img width="320px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide=glsl,rust,go" />
-<img width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=merthaddad&layout=compact&theme=dark&custom_title=Today's Activity" alt="Today's Activity" />
-  
-  <img  align="top" src="https://wakatime.com/badge/user/22717cb1-1a2e-449e-b96d-c321b32d6ccf.svg?style=flat" alt="Total time coded since Jun 1 2022" />
-  
-</a>
-<!-- 
-  <img width="570"  align="center" src="https://wakatime.com/share/@merthaddad/5799c1ff-40cd-4392-a556-7f923d78ea13.svg" alt="Total time coded since Jun 1 2022" />
--->
-<a>
-</a>
-  
 
 
+<p  align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img  width="27.5%"  align="center" src="https://github-readme-stats.vercel.app/api?username=merthaddad&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
+   <img width="38%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide=glsl,rust,go" />
+</p>
 
+<p  align="center">Absolute coding hours provided by Wakatime (idle time was not counted)</p>
+<p  align="center">
+    <img width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=merthaddad&layout=compact&theme=dark&custom_title=Weekly Code Activity" alt="Weekly code Activity" />  
+  <p/>
+<p  align="center">
+<img  align="center" src="https://wakatime.com/badge/user/22717cb1-1a2e-449e-b96d-c321b32d6ccf.svg?style=flat" alt="Total time coded since Jun 1 2022" />
+</p>
+
+<p  align="center">
+  <img width="60%" height="20%"  align="center" src="https://wakatime.com/share/@merthaddad/f1718f99-3307-44f2-956c-508235ffbf4b.svg" alt="Total time coded since Jun 1 2022" />
+</p>
 
 
 <!--
