@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/merthaddad/my-stack)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/merthaddad/mert-haddad-techstack)
