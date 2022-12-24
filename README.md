@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33F748&lines=Hi!+I+am+Mert%2C+Front-End+Developer;ReactJS+%E2%9D%A4+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33F748&lines=Hi!+I+am+Mert%2C+Frontend+Developer;ReactJS+%E2%9D%A4+Node.js)](https://git.io/typing-svg)
 <p  align="start" href="https://github.com/anuraghazra/github-readme-stats">
 
   <!--
